@@ -1,2 +1,2 @@
-# demo-repo
-Demo repository for my precourse.
+# Demo
+*Demo repository for my precourse.*
