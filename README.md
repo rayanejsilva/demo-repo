@@ -2,6 +2,6 @@
 
 _Demo repository for my precourse._
 
-##Commit
+## Git from CLI
 
-Adding an extra information.
+_Using Git from CLI._
